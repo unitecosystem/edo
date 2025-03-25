@@ -1,16 +1,7 @@
 {
   "name": "EDO",
   "symbol": "EDO",
-  "description": "EDO token for the EDO ecosystem",
-  "image": "https://raw.githubusercontent.com/unitecosystem/edo/main/edo.png",
+  "uri": "https://raw.githubusercontent.com/unitecosystem/edo/main/edo.png",
   "seller_fee_basis_points": 0,
-  "properties": {
-    "files": [
-      {
-        "uri": "edo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "creators": null
 }
